@@ -1,2 +1,2 @@
 # nodeapp
-node.js app using tot
+node.js app
